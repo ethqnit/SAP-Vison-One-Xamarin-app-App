@@ -10,7 +10,7 @@
 This was a personal project to explore mobile integration with enterprise systems — enabling users to access HR data, manage tasks, and track projects on the go.
 
 <div align="center">
-  <img src=".github/screenshot.jpg" alt="SAP Vision One App Preview" width="600"/>
+  <img src="https://github.com/ethqnit/SAP-Vison-One-Xamarin-app-App/blob/main/Screenshot_20251204-001018.png?raw=true" alt="SAP Vision One App Preview" width="600"/>
   <br><br>
   <sub><b>App in action — dashboard with SAP SuccessFactors data and Azure DevOps integration</b></sub>
 </div>
